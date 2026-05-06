@@ -4,8 +4,7 @@ Proyecto de análisis de datos sobre la transformación de la escritura en la er
 
 ## Objetivo
 
-Analizar la disminución del uso del papel gráfico y compararlo con el uso digital entre 2016 y 2024.
-
+Analizar la disminución de la escritura a mano gracias a la digitalización desde el año 2014 al 2024
 ## Herramientas utilizadas
 
 - Python
